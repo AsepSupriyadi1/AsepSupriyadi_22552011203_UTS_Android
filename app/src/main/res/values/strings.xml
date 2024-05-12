@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AsepExamApplication</string>
+    <string name="appname">Aplikasi UTS Android by Asep</string>
+    <string name="h1">Data Mahasiswa</string>
+
+    <string name="login_title">Sign in</string>
+    <string name="registration_title">Create an account</string>
+
+    <string name="registration_desc">Registrasi akun mahasiswa UTB</string>
+
+    <string name="label_nim">Nomor NIM / NIP :</string>
+    <string name="hint_nim">Masukan NIM</string>
+
+    <string name="label_nama">Nama mahasiswa :</string>
+    <string name="hint_nama">Masukan nama</string>
+
+    <string name="label_gender">Jenis kelamin :</string>
+
+    <string name="label_password">Password</string>
+    <string name="hint_password">Masukan password</string>
+
+    <string name="label_cpassword">Confirm password</string>
+    <string name="hint_cpassword">Masukan password lagi</string>
+
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_registration">DAFTAR</string>
+
+    <string name="ask_registration">Belum punya akun ?</string>
+    <string name="ask_login">Sudah punya akun ?</string>
+
+    <string name="link_registrasi">Daftar</string>
+    <string name="link_login">Login</string>
+
+
+    <string name="radio_man">Pria</string>
+    <string name="radio_female">Wanita</string>
+
+    <string name="copyright">Copyright © 2024 by Asep Supriyadi</string>
+    <string name="photoDesc">photo</string>
+    <string name="LabelListNama">Nama Mahasiswa</string>
+    <string name="LabelListNIM">NIM</string>
+
+
+</resources>
